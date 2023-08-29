@@ -1,0 +1,23 @@
+{
+  "name": "humble-logger",
+  "version": "0.1.0",
+  "description": "旨在通过为控制台输出添加颜色、样式和布局，从而提升开发过程中控制台的可读性和美观度。",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "console",
+    "stylish log"
+  ],
+  "author": "humility",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

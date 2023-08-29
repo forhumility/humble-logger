@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "lib": ["ES2017", "ES7", "ES6", "DOM"],
+    "declaration": true,
+    "allowJs": false,
+    "outDir": "dist",
+    "strict": true,
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "public", "dist", "js", "docs", "test"]
+}

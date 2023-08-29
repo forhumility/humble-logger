@@ -1,0 +1,26 @@
+# OSX
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# npm
+node_modules
+yarn.lock
+package-lock.json
+
+# jest
+coverage
+
+# build
+/dist
+/locale
+/plugin
+/dayjs.min.js
+/esm
+/index.d.ts
+locale.json
+
+# 接口文档
+docs2md.md
